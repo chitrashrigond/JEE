@@ -1,0 +1,21 @@
+body {
+    
+    color: yellow;
+    font-size: 1.1em;
+	background-image: url("../images/background.jpg");
+	 background-repeat: no-repeat;
+	 background-position: center;
+	 background-attachment: fixed;
+	  background-size: cover;
+	  text-align: center;
+}
+h1 {
+    color: Yellow;
+	text-align: center;
+}
+#intro {
+    font-size: 1.3em;
+}
+colorful {
+    color: orange;
+}
